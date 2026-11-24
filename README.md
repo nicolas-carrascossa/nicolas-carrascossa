@@ -8,8 +8,8 @@ Estudante de **Engenharia de Software no [Inteli](https://www.inteli.edu.br/)**,
 |---|---|---|
 | [**adalove-mcp**](https://github.com/nicolas-carrascossa/adalove-mcp) | Servidor MCP que deixa assistentes de IA (como o Claude) consultarem as atividades da semana no Adalove, a plataforma acadêmica do Inteli | Python · MCP · AWS Cognito |
 | [**nvidia_ai_radar**](https://github.com/nicolas-carrascossa/nvidia_ai_radar) | Sistema multiagente que mapeia startups brasileiras de IA, avalia a maturidade técnica e recomenda tecnologias NVIDIA (Liga de IA do Inteli + NVIDIA Inception) | Python · LangGraph · RAG · Qdrant · Supabase · Streamlit |
+| [**whirlpool-thermal-predictor**](https://github.com/nicolas-carrascossa/whirlpool-thermal-predictor) | Prevê em segundos a temperatura dos sensores de um fogão Whirlpool a partir da configuração de montagem, para priorizar simulações CFD (projeto Inteli com a Whirlpool) | Python · Random Forest · Gradient Boosting · FastAPI · React |
 | [**central-estudantil**](https://github.com/nicolas-carrascossa/central-estudantil) | Plataforma para clubes estudantis do Inteli reservarem espaços, com fluxo de aprovação e e-mails automáticos | Next.js 16 · TypeScript · Prisma · Postgres · better-auth |
-| [**pedalface**](https://github.com/nicolas-carrascossa/pedalface) | Pedal de wah-wah controlado pelo movimento da cabeça, captado pela webcam em tempo real | Python · MediaPipe · OpenCV |
 
 #### 🛠️ Stack
 
